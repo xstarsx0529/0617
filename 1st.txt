@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> My 1st html</title>
+</head>
+<body>
+三貂角燈塔，位於臺灣新北市貢寮區三貂角岬角處、地址為：22841新北市貢寮區福連村馬崗街38號。為典型頂層外有環繞陽台之燈塔造型，臺灣最東邊之燈塔。燈塔旁設有交通部民用航空局飛航服務總臺三貂角雷達臺。
+<img src="images/1st.jpg">
+<a href="2nd.html">連到第2頁</a>
+<a href="3rd.html">連到第3頁</a>
+<a href="4th.html">連到第4頁</a>
+</body>
+</html>

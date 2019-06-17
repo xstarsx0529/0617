@@ -1,0 +1,12 @@
+﻿<html>
+<head>
+<title> My 1st html</title>
+</head>
+<body>
+鵝鑾鼻燈塔是一座位於臺灣屏東縣恆春鎮墾丁國家公園鵝鑾鼻的燈塔。該燈塔一度被認定為台灣最南端的標誌也是照射距離最遠的燈塔，後被台灣最南點地標取代。最初落成於1883年，並經多次重修，現今建物為中華民國政府於1962年重修建成。
+<img src="images/2st.jpg">
+<a href="2nd.html">連到首頁</a>
+<a href="3rd.html">連到第3頁</a>
+<a href="4th.html">連到第4頁</a>
+</body>
+</html>

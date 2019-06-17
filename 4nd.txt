@@ -1,0 +1,12 @@
+﻿<html>
+<head>
+<title> My 1st html</title>
+</head>
+<body>
+富貴角燈塔為台灣最北端之燈塔，位處新北市石門區富貴角。原稱富基角燈塔。
+<img src="images/4st.jpg">
+<a href="2nd.html">連到首頁</a>
+<a href="3rd.html">連到第2頁</a>
+<a href="4th.html">連到第3頁</a>
+</body>
+</html>
